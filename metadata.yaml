@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '47092'
     url: http://www.gutenberg.org/2009/agents/47092
     wikipedia: https://fi.wikipedia.org/wiki/K._V._Raitio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Christaller, Helene
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58081
     wikipedia: https://en.wikipedia.org/wiki/Helene_Christaller
 description: 'Reading ease score: 41.7 (College-level). Difficult to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75647#Kuin-unta-nakevaiset-b-Paivakirjanlehtia
 gutenberg_bookshelf:
 - 'Browsing: Psychiatry/Psychology'
 - 'Browsing: Fiction'
